@@ -206,5 +206,5 @@ frontend/
 
 ## 👤 Author
 
-**[Your Name]**
+**Ehab Alshofee**
 Computer Science / Software Engineering
